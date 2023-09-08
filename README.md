@@ -42,6 +42,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Links
 
+https://github.com/Mahmud-deep/React-Binder
+
+https://mahmud-deep.github.io/React-Binder/
 ## Review
 
 * The URL of the functional, deployed application.
