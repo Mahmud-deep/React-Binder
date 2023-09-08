@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mahmud-deep/React-Binder/static/css/main.de2467c5.css",
+    "main.js": "/Mahmud-deep/React-Binder/static/js/main.39b9fcb7.js",
+    "static/media/portfolio image.webp": "/Mahmud-deep/React-Binder/static/media/portfolio image.ce875e1199f241a0c176.webp",
+    "static/media/picturedeep.JPG": "/Mahmud-deep/React-Binder/static/media/picturedeep.3406fc6f11eb04066295.JPG",
+    "static/media/techblog.png": "/Mahmud-deep/React-Binder/static/media/techblog.960a524eb76216c7716a.png",
+    "static/media/work schedule.png": "/Mahmud-deep/React-Binder/static/media/work schedule.0f7ea821edb28469bacb.png",
+    "static/media/green-resume-logo.png": "/Mahmud-deep/React-Binder/static/media/green-resume-logo.cb136cf6b92101ec8ea0.png",
+    "static/media/J.A.T.E.png": "/Mahmud-deep/React-Binder/static/media/J.A.T.E.7ea34dfee134e36d8352.png",
+    "static/media/Password-Generator-800x550.png": "/Mahmud-deep/React-Binder/static/media/Password-Generator-800x550.f78dc27fcbb8acde5be4.png",
+    "static/media/weatherdashboard.png": "/Mahmud-deep/React-Binder/static/media/weatherdashboard.93326a434d27f4d51f33.png",
+    "static/media/note taker.png": "/Mahmud-deep/React-Binder/static/media/note taker.73c4024190ad0d85e410.png",
+    "index.html": "/Mahmud-deep/React-Binder/index.html",
+    "main.de2467c5.css.map": "/Mahmud-deep/React-Binder/static/css/main.de2467c5.css.map",
+    "main.39b9fcb7.js.map": "/Mahmud-deep/React-Binder/static/js/main.39b9fcb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2467c5.css",
+    "static/js/main.39b9fcb7.js"
+  ]
+}
