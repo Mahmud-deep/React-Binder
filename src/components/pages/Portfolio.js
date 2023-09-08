@@ -69,7 +69,7 @@ export default function Portfolio() {
               projectTitle = "weather dashboard"
               gitHubRepo = "https://mahmud-deep.github.io/Meteorology/"
               gitHubAlt = "See game repository on GitHub"
-              description = "Technology used: HTML, CSS, JavaScripy" />
+              description = "Technology used: HTML, CSS, JavaScript" />
             <Project
               key = "6"
               img = {profile6}  
